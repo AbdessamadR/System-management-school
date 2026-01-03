@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\nazea11n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\2cu3inag..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\professeurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\matierescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\matierescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\etudiantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\emploidutempscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\emploidutempscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\administrateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\administrateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\controllers\\absencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\controllers\\absencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\schoolmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\schoolmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\models\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\schoolmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\schoolmanagement.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\models\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\models\\administrateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|c:\\users\\hp\\source\\repos\\schoolmanagement.api\\schoolmanagement.api\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CD7E14-AFCE-431C-9AD4-BA8FC572BF8F}|SchoolManagement.Api\\SchoolManagement.Api.csproj|solutionrelative:schoolmanagement.api\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\nazea11n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\AppData\\Local\\Temp\\nazea11n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\nazea11n..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\nazea11n..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-16T17:34:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolManagement.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T22:54:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2cu3inag..sql",
+              "DocumentMoniker": "C:\\Users\\HP\\AppData\\Local\\Temp\\2cu3inag..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2cu3inag..sql",
+              "ToolTip": "C:\\Users\\HP\\AppData\\Local\\Temp\\2cu3inag..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\2cu3inag..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-14T22:18:44.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesseursController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ProfesseursController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\ProfesseursController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ProfesseursController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\ProfesseursController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:18:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParentsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ParentsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\ParentsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ParentsController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\ParentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:18:37.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\NotificationsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\NotificationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:24:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:22:37.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatieresController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\MatieresController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\MatieresController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\MatieresController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\MatieresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:21:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EtudiantsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\EtudiantsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\EtudiantsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\EtudiantsController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\EtudiantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:18:07.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmploiDuTempsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\EmploiDuTempsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\EmploiDuTempsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\EmploiDuTempsController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\EmploiDuTempsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:11:52.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\ClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:10:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministrateursController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AdministrateursController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\AdministrateursController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AdministrateursController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\AdministrateursController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:03:32.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\appsettings.json",
+              "RelativeToolTip": "SchoolManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T18:25:32.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:00:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AbsencesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AbsencesController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Controllers\\AbsencesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Controllers\\AbsencesController.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Controllers\\AbsencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:44:29.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SchoolManagement.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "RelativeToolTip": "SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:41:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:43:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Etudiant.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Models\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Etudiant.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Models\\Etudiant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:41:22.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Program.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:38:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SchoolManagement.Api",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "RelativeToolTip": "SchoolManagement.Api\\SchoolManagement.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T18:38:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Administrateur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Administrateur.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Models\\Administrateur.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Administrateur.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Models\\Administrateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:19:47.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Absence.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Absence.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.Api\\Models\\Absence.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\SchoolManagement.Api\\SchoolManagement.Api\\Models\\Absence.cs",
+              "RelativeToolTip": "SchoolManagement.Api\\Models\\Absence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:19:43.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
